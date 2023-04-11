@@ -9,7 +9,7 @@
         "aboutme": "个人评价"
     },
     "avatar": {
-        "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+        "src": "https://avatars.githubusercontent.com/u/5530205?v=4",
         "hidden": false
     },
     "profile": {
@@ -145,7 +145,7 @@
             "project_name": "其他",
             "project_role": "",
             "project_desc": "以下为重点参与或负责过的项目",
-            "project_content": "1. 2016-2017 移动端组件库 Mext 开发\n2. 2016-2022 PWA、FCM 及性能优化相关\n3. 2018-2019 电商平台 K8s 迁移前端负责人\n4. 2019 《基于AI视觉的自动化测试平台》发起人\n5. 2018-2019 内部 CICD 流程优化\n6. 2021-2022 《ESM playground》。一个基于 esm，bundless 等技术实现的 demo 展示平台\n7. > 7 次的业务站点改版及重构经验，含 PC 及 M 站\n8. 20 + 个人业务项目经验。地址：https://github.com/lwdgit ",
+            "project_content": "1. 2016-2017 移动端组件库 Mext 开发\n2. 2016-2022 PWA、FCM 及性能优化相关\n3. 2018-2019 电商平台 K8s 迁移前端负责人\n4. 2019 《基于AI视觉的自动化测试平台》发起人\n5. 2018-2019 内部 CICD 流程优化\n6. 2021-2022 《ESM playground》。一个基于 esm，bundless 等技术实现的 demo 展示平台\n7. > 7 次的业务站点改版及重构经验，含 PC 及 M 站\n8. 20 + 个人业务项目经验。地址：https://github.com/lwdgit \n\n> 简历在线版本：https://lwdgit.github.io/resume/?template=template3&user=lwdgit",
             "dataIndex": 5
         }
     ],
