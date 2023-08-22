@@ -1,1 +1,202 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经验","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"个人评价"},"avatar":{"src":"https://avatars.githubusercontent.com/u/15646325?v=4","hidden":false},"profile":{"name":"李文(之枫)","email":"1127622940@qq.com","mobile":"18268051575","github":"https://github.com/lwdgit","zhihu":"","workExpYear":"9年","workPlace":"深圳","positionTitle":"前端工程师"},"educationList":[{"edu_time":["2010.09.01"," 2014.06.30"],"school":"湘潭大学","major":"通信工程"}],"awardList":[{"award_time":"2022.04","award_info":"前端早早聊优秀讲师 《如何打造一款极致体验的WebIDE》","dataIndex":0},{"award_time":"2020.09","award_info":"内部专利-一个基于WebIDE的多浏览器实时预览"},{"award_time":"2022.04","award_info":"内部专利-一种基于劫持函数实现的 LowCode 与 ProCode 互转技术","dataIndex":2},{"award_time":"2021.09","award_info":"ICBU 技术创新奖"},{"award_time":"2018.03","award_info":"大疆互联网技术部优秀员工"}],"workExpList":[{"company_name":"阿里巴巴","department_name":"ICBU技术部","work_time":"2019.08-至今","work_desc":"从0到1带团队完成了鲲鹏云原生研发平台的建设","dataIndex":0},{"company_name":"深圳大疆创新","department_name":"互联网技术部","work_time":"2017.08-2019.08","work_desc":"1. 商城的前后端架构治理及升级\n2. 前端工程能力建设\n3. 内/外网直播平台建设","dataIndex":1},{"company_name":"阿里巴巴","department_name":"ICBU 技术部","work_time":"2015.11-2017.07","work_desc":"m.alibaba.com PWA 化后期主要负责人","dataIndex":2}],"skillList":[{"skill_name":"","skill_level":40,"skill_desc":"React，Vue","dataIndex":0},{"skill_name":"","skill_level":60,"skill_desc":"Node.js","dataIndex":1},{"skill_name":"","skill_level":10,"skill_desc":"Java，C#，C++，Python，Php，Go，Docker，Lua，Bash，Sql，Dart 等","dataIndex":2}],"projectList":[{"project_name":"鲲鹏云原生研发平台","project_role":"负责人","project_time":"2019.04 - 至今","project_desc":"面向一线开发的协同协发平台。基于 Docker、WebIDE、 Chrome 插件及 Electron 客户端的一整套方案解决了从研发到测试再到发布等各个环节中的研发痛点。并\n基于 runc 及 Git 版本管理方案，实现了一套开箱即用的容器环境，同时支持 Flutter，Java，Python, Rust 等多种语言。同时为后面的 LowCode 转 ProCode 研发及 Pages 一键构建提供了良好支持。 \n\n1. 平台截止目前日活 60，前端使用覆盖率约30%。\n2. 角色从只面向前端，逐步拓展到测试及后端。","project_content":"\n1. 带团队负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） \n2. 产品体验精雕细琢的打磨 \n3. 产品日常运维及答疑","dataIndex":0},{"project_name":"AI 智能答疑及代码生成服务","project_role":"核心开发者","project_time":"2023.03 - 至今","project_desc":"基于 ChatGLM，FastChat 等大模型，结合向量数据库及知识图谱，建立一套同时支持闲聊、答疑及代码生成的智能机器人。","project_content":"\n1. 技术方案预研及可行性验证\n2. 平台搭建\n3. 模型训练\n4. 针对 LowCode 平台定制代码生成逻辑","dataIndex":0},{"project_name":"Pages 静态文件托管平台","project_role":"负责人","project_time":"2021.04 - 至今","project_desc":"一个静态文件托管平台。项目由鲲鹏云研生研发平台孵化，前期主要为了托管鲲鹏和组件的云端资源及文档，后逐步影响到整个集团。\n主要特性：\n1. 一键构建部署托管及域名绑定\n2. 实现了一套基于 Deno 的 serverless 运行时\n\n截止目前平以已经承接了诸如 ice.js, Midway 等500多个仓库的文档托管。使用人群覆盖淘系，蚂蚁，钉钉，Lazada 等多个BU，目前日 PV 已达到百万。","project_content":"\n1. 从0到1的完成整个平台\n2. 日常功能优化及使用答疑","dataIndex":1},{"project_time":"2018.06 - 2019.06","project_name":"直播学习平台","project_role":"负责人","project_desc":"通过新品直播的经验，及公司内部需求，组织团队自主研发了一套内网直播系统，并逐步由互联网事业部推广到整个公司。 \n自 18 年 6 月首次上线以来： \n1. 直播场次已经超过 300 场\n2. 互动数总计 10 万余次\n3. 总观看次数达到 8 万","project_content":"\n1. 基于 SRS、 socket.io、 webrtc、 mongodb、 docker、 nginx 及 kong，从0到1完整地搭建了整个直播平以\n2. 功能维护及迭代\n3. 前期市场推广","dataIndex":3},{"project_time":"2017.12 - 2019.02","project_name":"新品直播","project_role":"负责人","project_desc":"大疆官方直播平台，主要承接大疆在海内外的新品直播及品牌宣传，提升市场品牌认可。","project_content":"\n1. 利用了纯静态文件模拟接口的方式实现了超高并发（通过内部的压测平台暂未压出极限值）。\n2. 直播的开发及运营成本由原有的 4 * 60 降为 1 * 3 天，人力开发及运维成本降了 97.5 %\n3. 纯 CDN 架构后来进一步演进成基于 Lambda 的 Serverless 架构，并逐步应用到官网及商城其他站点。","dataIndex":3},{"project_time":"2017.12 - 2019.02","project_name":"其他","project_role":"","project_desc":"以下为重点参与或负责过的项目","project_content":"1. 2016-2017 移动端组件库 Mext 开发\n2. 2016-2022 PWA、FCM 及性能优化相关\n3. 2018-2019 电商平台 K8s 迁移前端负责人\n4. 2019 《基于AI视觉的自动化测试平台》发起人\n5. 2018-2019 内部 CICD 流程优化\n6. 2021-2022 《ESM playground》。一个基于 esm，bundless 等技术实现的 demo 展示平台\n7. > 7 次的业务站点改版及重构经验，含 PC 及 M 站\n8. 20 + 个人业务项目经验。地址：https://github.com/lwdgit \n\n> 简历在线版本：https://lwdgit.github.io/resume/?template=template3&user=lwdgit","dataIndex":5}],"workList":[],"aboutme":{"aboutme_desc":"1. 多年大型项目经历及带人做项目经历\n2. 具有独立跟进和推动项目进度经验\n3. 技术栈全面，且有丰富的实践经验"},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经验",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "个人评价"
+    },
+    "avatar": {
+        "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+        "hidden": false
+    },
+    "profile": {
+        "name": "李文(之枫)",
+        "email": "1127622940@qq.com",
+        "mobile": "18268051575",
+        "github": "https://github.com/weaigc",
+        "zhihu": "",
+        "workExpYear": "9年",
+        "workPlace": "深圳",
+        "positionTitle": "前端工程师"
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2010.09.01",
+                " 2014.06.30"
+            ],
+            "school": "湘潭大学",
+            "major": "通信工程"
+        }
+    ],
+    "awardList": [
+        {
+            "award_time": "2022.04",
+            "award_info": "前端早早聊优秀讲师 《如何打造一款极致体验的WebIDE》",
+            "dataIndex": 0
+        },
+        {
+            "award_time": "2020.09",
+            "award_info": "内部专利-一个基于WebIDE的多浏览器实时预览"
+        },
+        {
+            "award_time": "2022.04",
+            "award_info": "内部专利-一种基于劫持函数实现的 LowCode 与 ProCode 互转技术",
+            "dataIndex": 2
+        },
+        {
+            "award_time": "2021.09",
+            "award_info": "ICBU 技术创新奖"
+        },
+        {
+            "award_time": "2018.03",
+            "award_info": "大疆互联网技术部优秀员工"
+        }
+    ],
+    "workExpList": [
+        {
+            "company_name": "阿里巴巴",
+            "department_name": "ICBU技术部",
+            "work_time": "2019.08-至今",
+            "work_desc": "从0到1带团队完成了鲲鹏云原生研发平台的建设",
+            "dataIndex": 0
+        },
+        {
+            "company_name": "深圳大疆创新",
+            "department_name": "互联网技术部",
+            "work_time": "2017.08-2019.08",
+            "work_desc": "1. 商城的前后端架构治理及升级\n2. 前端工程能力建设\n3. 内/外网直播平台建设",
+            "dataIndex": 1
+        },
+        {
+            "company_name": "阿里巴巴",
+            "department_name": "ICBU 技术部",
+            "work_time": "2015.11-2017.07",
+            "work_desc": "m.alibaba.com PWA 化后期主要负责人",
+            "dataIndex": 2
+        }
+    ],
+    "skillList": [
+        {
+            "skill_name": "",
+            "skill_level": 40,
+            "skill_desc": "React，Vue",
+            "dataIndex": 0
+        },
+        {
+            "skill_name": "",
+            "skill_level": 60,
+            "skill_desc": "Node.js",
+            "dataIndex": 1
+        },
+        {
+            "skill_name": "",
+            "skill_level": 10,
+            "skill_desc": "Java，C#，C++，Python，Php，Go，Docker，Lua，Bash，Sql，Dart 等",
+            "dataIndex": 2
+        }
+    ],
+    "projectList": [
+        {
+            "project_name": "鲲鹏云原生研发平台",
+            "project_role": "负责人",
+            "project_time": "2019.04 - 至今",
+            "project_desc": "面向一线开发的协同协发平台。基于 Docker、WebIDE、 Chrome 插件及 Electron 客户端的一整套方案解决了从研发到测试再到发布等各个环节中的研发痛点。并\n基于 runc 及 Git 版本管理方案，实现了一套开箱即用的容器环境，同时支持 Flutter，Java，Python, Rust 等多种语言。同时为后面的 LowCode 转 ProCode 研发及 Pages 一键构建提供了良好支持。 \n\n1. 平台截止目前日活 60，前端使用覆盖率约30%。\n2. 角色从只面向前端，逐步拓展到测试及后端。",
+            "project_content": "\n1. 带团队负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） \n2. 产品体验精雕细琢的打磨 \n3. 产品日常运维及答疑",
+            "dataIndex": 0
+        },
+        {
+            "project_name": "Pages 静态文件托管平台",
+            "project_role": "负责人",
+            "project_time": "2021.04 - 至今",
+            "project_desc": "一个静态文件托管平台。项目由鲲鹏云研生研发平台孵化，前期主要为了托管鲲鹏和组件的云端资源及文档，后逐步影响到整个集团。\n主要特性：\n1. 一键构建部署托管及域名绑定\n2. 实现了一套基于 Deno 的 serverless 运行时\n\n截止目前平以已经承接了诸如 ice.js, Midway 等500多个仓库的文档托管。使用人群覆盖淘系，蚂蚁，钉钉，Lazada 等多个BU，目前日 PV 已达到百万。",
+            "project_content": "\n1. 从0到1的完成整个平台\n2. 日常功能优化及使用答疑",
+            "dataIndex": 1
+        },
+        {
+            "project_name": "AI 智能答疑及代码生成服务",
+            "project_role": "核心开发者",
+            "project_time": "2023.03 - 至今",
+            "project_desc": "基于 ChatGLM，FastChat 等大模型，结合向量数据库及知识图谱，建立一套同时支持闲聊、答疑及代码生成的智能机器人。",
+            "project_content": "\n1. 技术方案预研及可行性验证\n2. 平台搭建\n3. 模型训练\n4. 针对 LowCode 平台定制代码生成逻辑",
+            "dataIndex": 2
+        },
+        {
+            "project_time": "2019.12 - 2022.04",
+            "project_name": "信用保障-售后纠纷业务",
+            "project_role": "前端负责人",
+            "project_desc": "信用保障业务，涵盖纠纷流程箮理，流程编排，人工仲裁，评价反馈等模块。",
+            "project_content": "1. 代码升级：将原来的 Jquery 体系升级到 React 体系\n2. 移动端化：基于 PC 商逻辑重新打造一套全新的移动端（hybird) 操作平台。\n3. 效率提升：设计了一套基于 JSON 的表单规则引擎，并接入到后端 CMS，实现大部分业务逻辑可动态配置。\n4. 日常需求跟进入任务安排。",
+            "dataIndex": 3
+        },
+        {
+            "project_time": "2022.05 - 2023.06",
+            "project_name": "Alibaba.com Pay 资金业务",
+            "project_role": "前端负责人",
+            "project_desc": "Alibaba.com 核心业务，日常迭代涉及到账，提款，汇兑，绑卡等多个模块",
+            "project_content": "1. 代码重构：协助升级了提款，汇兑，绑卡等6个业务模块\n2. 架构升级：在兼顾维护成本及复用的原则下，基于现有架构，设计了一套面向未来的多租户的多站点架构，目前已拆分租户5+\n3. 效率提升：打造了一套全链路问题诊断分析平台，节约约 50% 的问题排查时间",
+            "dataIndex": 4
+        },
+        {
+            "project_time": "2017.12 - 2019.02",
+            "project_name": "新品直播",
+            "project_role": "负责人",
+            "project_desc": "大疆官方直播平台，主要承接大疆在海内外的新品直播及品牌宣传，提升市场品牌认可。",
+            "project_content": "\n1. 利用了纯静态文件模拟接口的方式实现了超高并发（通过内部的压测平台暂未压出极限值）。\n2. 直播的开发及运营成本由原有的 4 * 60 降为 1 * 3 天，人力开发及运维成本降了 97.5 %\n3. 纯 CDN 架构后来进一步演进成基于 Lambda 的 Serverless 架构，并逐步应用到官网及商城其他站点。",
+            "dataIndex": 5
+        },
+        {
+            "project_time": "2018.06 - 2019.06",
+            "project_name": "直播学习平台",
+            "project_role": "负责人",
+            "project_desc": "通过新品直播的经验，及公司内部需求，组织团队自主研发了一套内网直播系统，并逐步由互联网事业部推广到整个公司。 \n自 18 年 6 月首次上线以来： \n1. 直播场次已经超过 300 场\n2. 互动数总计 10 万余次\n3. 总观看次数达到 8 万",
+            "project_content": "\n1. 基于 SRS、 socket.io、 webrtc、 mongodb、 docker、 nginx 及 kong，从0到1完整地搭建了整个直播平以\n2. 功能维护及迭代\n3. 前期市场推广",
+            "dataIndex": 6
+        },
+        {
+            "project_time": "2017.12 - 2019.02",
+            "project_name": "其他",
+            "project_role": "",
+            "project_desc": "以下为重点参与或负责过的项目",
+            "project_content": "1. 2016-2017 移动端组件库 Mext 开发\n2. 2016-2022 PWA、FCM 及性能优化相关\n3. 2018-2019 电商平台 K8s 迁移前端负责人\n4. 2019 《基于AI视觉的自动化测试平台》发起人\n5. 2018-2019 内部 CICD 流程优化\n6. 2021-2022 《ESM playground》。一个基于 esm，bundless 等技术实现的 demo 展示平台\n7. > 7 次的业务站点改版及重构经验，含 PC 及 M 站\n8. 20 + 个人业务项目经验。地址：https://github.com/weaigc, https://github.com/lwdgit ",
+            "dataIndex": 7
+        }
+    ],
+    "workList": [
+        {
+            "work_name": "WEAIGC",
+            "work_desc": "围绕 AI 进行的一些尝试及探索，包括 AI 项目脚手架初始工具，Alll in one AI 等，其中部分项目获得了不少的关注度与好评",
+            "visit_link": "https://github.com/weaigc/"
+        },
+        {
+            "work_name": "Bingo",
+            "work_desc": "基于 Next.js 的 New Bing AI 镜像站。项目发起半个多月， Gitthub 累积 Star 已达到 240 多个，Huggingface 周趋势排行第 8",
+            "visit_link": "https://github.com/weaigc/bingo"
+        },
+        {
+            "work_name": "Kantu",
+            "work_desc": "基于 AI 视觉识别的自动化录制及执行套件，仅开放部分代码",
+            "visit_link": "https://github.com/lwdgit/docker-kantu"
+        },
+        {
+            "work_name": "Chrome Automator",
+            "work_desc": "早期基于 Chrome CDP 协议打造的 Chrome 自动化工具",
+            "visit_link": "https://github.com/lwdgit/chrome-automator"
+        },
+        {
+            "work_name": "FIS 相关",
+            "work_desc": "早期对前端工程化相关的探索",
+            "visit_link": "https://github.com/wEasyTeam/reasy"
+        }
+    ],
+    "aboutme": {
+        "aboutme_desc": "1. 多年大型项目经历及带人做项目经历\n2. 具有独立跟进和推动项目进度经验\n3. 技术栈全面，且有丰富的实践经验"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
